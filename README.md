@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #TaskBoard
 
 [![Join the chat at https://gitter.im/kiswa/TaskBoard](https://badges.gitter.im/kiswa/TaskBoard.svg)](https://gitter.im/kiswa/TaskBoard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -132,3 +133,7 @@ XML                | 1      | 0            | 0        | 12
 __SUM:__           | __63__ | __492__      | __125__  | __5257__
 
 Counts Last Updated: Nov 8, 2015
+=======
+# ProjectsBoard
+Project management using kanban metology
+>>>>>>> 04ca33c9962ae5612195594594d01d7cd41c7168
