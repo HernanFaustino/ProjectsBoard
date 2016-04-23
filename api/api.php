@@ -25,7 +25,8 @@ function exceptionHandler($exception) {
 };
 set_exception_handler('exceptionHandler');
 
-R::setup('sqlite:'.__DIR__.'/taskboard.db');
+R::setup('mysql:host=localhost;dbname=TaskBoard','root','admin');
+
 R::setAutoResolve(TRUE);
 createInitialUser();
 
